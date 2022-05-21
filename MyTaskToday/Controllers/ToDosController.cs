@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using MyTaskToday.Models;
+
 using MyTaskToday.Services;
+using TaskApi_Services;
 
 namespace MyTaskToday.Controllers
 {
@@ -11,11 +12,13 @@ namespace MyTaskToday.Controllers
     [ApiController]
     public class ToDosController : ControllerBase
     {
-        private ToDoService _toDoService;
+       // private ToDoService _toDoService;
+        private ITodoRepository _toDoService; //After depndency injection
 
-        public ToDosController()
+        public ToDosController(ITodoRepository todoRepository)
         {
-            _toDoService=new ToDoService();
+           // _toDoService=new ToDoService();
+            _toDoService= todoRepository;  //After depndency injection
         }
 
         [HttpGet]

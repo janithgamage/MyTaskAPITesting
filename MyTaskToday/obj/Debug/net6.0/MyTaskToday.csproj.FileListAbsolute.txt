@@ -25,3 +25,7 @@ C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\obj\Debug\net6.
 C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\obj\Debug\net6.0\MyTaskToday.pdb
 C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\obj\Debug\net6.0\MyTaskToday.genruntimeconfig.cache
 C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\obj\Debug\net6.0\ref\MyTaskToday.dll
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\bin\Debug\net6.0\TaskApi_Models.dll
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\bin\Debug\net6.0\TaskApi_Services.dll
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\bin\Debug\net6.0\TaskApi_Services.pdb
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\MyTaskToday\bin\Debug\net6.0\TaskApi_Models.pdb

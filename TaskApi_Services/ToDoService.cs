@@ -1,8 +1,9 @@
 ﻿using MyTaskToday.Models;
+using TaskApi_Services;
 
 namespace MyTaskToday.Services
 {
-    public class ToDoService
+    public class ToDoService : ITodoRepository
     {
 
         public List<ToDo> AllTodos()

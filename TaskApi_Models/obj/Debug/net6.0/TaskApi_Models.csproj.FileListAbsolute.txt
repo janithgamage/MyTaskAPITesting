@@ -1,0 +1,12 @@
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\bin\Debug\net6.0\TaskApi_Models.deps.json
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\bin\Debug\net6.0\TaskApi_Models.dll
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\bin\Debug\net6.0\TaskApi_Models.pdb
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.csproj.AssemblyReference.cache
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.AssemblyInfoInputs.cache
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.AssemblyInfo.cs
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.csproj.CoreCompileInputs.cache
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.dll
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\refint\TaskApi_Models.dll
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\TaskApi_Models.pdb
+C:\Users\Janith Chathuranga\source\repos\MyTaskToday\TaskApi_Models\obj\Debug\net6.0\ref\TaskApi_Models.dll
